@@ -3,10 +3,12 @@
 // We use methos to reuse code: define the code once, and use it many times.
 
 public class Method {
-     static void myMethod(){//we use static means the method belongs to the main class and can be called without creating an object of the main class.
-            System.out.println("It is the method ");
+     static void myMethod(String Numbers){//we use static means the method belongs to the main class and can be called without creating an object of the main class.
+            System.out.println("The number is: " + Numbers);
     }
     public static void main(String[] args){
-        myMethod();//we can call the method multiple times
+        myMethod("15");//we can call the method multiple times
+        myMethod("23");
+        myMethod("45");
     }
 }
