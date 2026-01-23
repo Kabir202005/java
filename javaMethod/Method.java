@@ -12,3 +12,5 @@ public class Method {
         myMethod("45");
     }
 }
+
+
