@@ -15,4 +15,5 @@ object-oriented programming is about creating objects that contain both data and
     Car             Volvo,BMW
 
     So, a class is a template for objects, and an object is an instance of a class.
+    Objects inherit all the variables and methods from the class.
 */
