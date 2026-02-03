@@ -6,3 +6,6 @@ public class Attribute {
     System.out.println(myObj.x);
   }
 }
+
+//If you want to modify the value of x, you can do so like this:
+// myObj.x = 10;
