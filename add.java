@@ -397,3 +397,15 @@
                 
 //         }
 // }
+
+// import java.util.Scanner;
+// public class add{
+//         public static void main(String[] args){
+//                 Scanner sk = new Scanner(System.in);
+//                 System.out.print("Enter your name: ");
+//                 String n = sk.nextLine();
+//                 System.out.println("your name is jitin: "+n);
+//                 sk.close();
+
+//         }
+// }
