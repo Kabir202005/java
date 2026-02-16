@@ -19,7 +19,7 @@ public class Construct2 {
         System.out.println("Your name is: "+name);
     }
     public static void main(String[] args){
-        Construct2 myobj = new Construct2();
+        Construct2 Obj = new Construct2();
 
     }
     
