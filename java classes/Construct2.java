@@ -12,8 +12,6 @@ public class Construct2 {
         sc.nextLine(); //Consume the newline character left by nextInt();
         System.out.print("Enter your name: ");
         String name = sc.nextLine();
-
-
         int Z = x*y;
         System.out.println("The Multiplication Of "+ x +" and "+ y +" is: " + Z);
         System.out.println("Your name is: "+name);
