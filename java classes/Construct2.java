@@ -18,6 +18,10 @@ public class Construct2 {
     }
     public static void main(String[] args){
         Construct2 Obj = new Construct2();
+        Construct2 obj1 = new Construct2();
+        Construct2 obj2 = new Construct2();
+        Construct2 obj3 = new Construct2();
+        Construct2 obj4 = new Construct2();
 
     }
     
