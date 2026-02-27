@@ -15,4 +15,6 @@ public class PvsP{
     It shows an error 
     [error: age has private access in Person
     System.out.println(obj.age);]
+
+    Explanation: Here, name is declared as public, so it can be accessed from outside the Person class. But age is declared as private, so it can only be used inside the Person class.
 */
