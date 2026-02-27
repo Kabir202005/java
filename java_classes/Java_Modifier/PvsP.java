@@ -7,7 +7,7 @@ public class PvsP{
 
         Person obj = new Person();
         System.out.println(obj.name);
-        System.out.println(obj.age);
+        // System.out.println(obj.age); [error : age has private access in person]
         
 }
 }
