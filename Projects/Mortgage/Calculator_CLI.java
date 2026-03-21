@@ -28,5 +28,6 @@ public class Calculator_CLI{
         System.out.println(num1 / num2);
         break;
     }
+    sc.close();
     }
 }
