@@ -1,3 +1,4 @@
+package Projects.Mortgage;
 import java.util.Scanner;
 public class Calculator_CLI{
     public static void main(String[] args){

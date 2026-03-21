@@ -1,4 +1,4 @@
-package Projects.MortgageCalculator;
+package Projects.Mortgage;
 
 public class MortgageCalculator {
     
