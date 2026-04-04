@@ -5,3 +5,6 @@ In java it is possible to inherit the properties from parent class to child clas
 
 We can inherit the property of a class by "Extends" Keyword.
 
+* the Final Keyword -
+
+if you don't want other class to inherit from a class, use "Final" keyword.
