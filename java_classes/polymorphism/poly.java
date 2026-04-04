@@ -1,4 +1,4 @@
-public class poly {
+public class poly {// This class is the parent class of dog and pig and it has a method call animal sound
     public void animalsound(){
         System.out.println("The animal makes a sound: ");
     }
